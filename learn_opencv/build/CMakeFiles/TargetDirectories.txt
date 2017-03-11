@@ -1,0 +1,4 @@
+/home/sage/Desktop/learn_opencv/build/CMakeFiles/rebuild_cache.dir
+/home/sage/Desktop/learn_opencv/build/CMakeFiles/edit_cache.dir
+/home/sage/Desktop/learn_opencv/build/CMakeFiles/demo2.dir
+/home/sage/Desktop/learn_opencv/build/CMakeFiles/demo.dir
